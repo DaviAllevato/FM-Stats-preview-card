@@ -38,9 +38,9 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: ![https://www.frontendmentor.io/solutions/stats-preview-card-component-utilizando-html-css-e-flexbox-GtjM3QVe3](https://www.frontendmentor.io/solutions/stats-preview-card-component-utilizando-html-css-e-flexbox-GtjM3QVe3)
+- URL da solução: [https://www.frontendmentor.io/solutions/stats-preview-card-component-utilizando-html-css-e-flexbox-GtjM3QVe3](https://www.frontendmentor.io/solutions/stats-preview-card-component-utilizando-html-css-e-flexbox-GtjM3QVe3)
 
-- URL do site ao vivo: ![https://daviallevato.github.io/FM-Stats-preview-card/](https://daviallevato.github.io/FM-Stats-preview-card/)
+- URL do site ao vivo: [https://daviallevato.github.io/FM-Stats-preview-card/](https://daviallevato.github.io/FM-Stats-preview-card/)
 
 ## Meu processo
 
@@ -52,8 +52,8 @@ Os usuários devem ser capazes de:
 
 ## Autor
 
-- Frontend Mentor - ![@DaviAllevato](https://www.frontendmentor.io/profile/daviallevato)
+- Frontend Mentor - [@DaviAllevato](https://www.frontendmentor.io/profile/daviallevato)
 
-- GitHub - ![@daviallevato](https://github.com/DaviAllevato)
+- GitHub - [@daviallevato](https://github.com/DaviAllevato)
 
 
